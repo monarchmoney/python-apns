@@ -5,14 +5,14 @@ setup(
     'gobiko',
     'gobiko.apns'
   ],
-  version = '0.1.3',
+  version = '0.1.3-monarch',
   description = 'A library for interacting with APNs using HTTP/2 and token-based authentication.',
   author = 'Gene Sluder',
   author_email = 'gene@gobiko.com',
   url = 'https://github.com/genesluder/python-apns',
   download_url = 'https://github.com/genesluder/python-apns/tarball/0.1.3',
   keywords = [
-    'apns', 
+    'apns',
     'push notifications',
   ],
   classifiers = [],
